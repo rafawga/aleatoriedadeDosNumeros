@@ -20,3 +20,4 @@ num_vezes = 10000000
 valores = jogar_dados(num_dados, num_vezes)
 
 plot_histogram(valores)
+#
