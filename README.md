@@ -17,6 +17,6 @@ interesting tests:
  Dices: 10
  Draws: 10000
 
--Test 3
+- Test 3
  Dices: 100
  Draws: 10000000
