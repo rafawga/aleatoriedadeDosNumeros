@@ -8,5 +8,5 @@ Case study of the randomness of numbers and algorithms that generate pseudorando
 This algorithm returns a histogram with the number of time that each sum was drawn.
 It is possible to analyze that as the amount of dices is increased, the distribution tends to centralize the values decreasing the randomness.
 
-![alt text](U:/Outros/aleatoriedadeDosNumeros-main/ex1)
+
 
