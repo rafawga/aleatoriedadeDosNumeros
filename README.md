@@ -8,4 +8,3 @@ Case study of the randomness of numbers and algorithms that generate pseudorando
 This algorithm returns a histogram with the number of times a given number fell.
 It is possible to analyze that as the amount of data is increased, the distribution tends to become less random, centralizing the values decreasing the randomness
 
-{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}\;\;\mathrm {e} ^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}.
