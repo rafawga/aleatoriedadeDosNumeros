@@ -5,6 +5,6 @@ Case study of the randomness of numbers and algorithms that generate pseudorando
 
 
 => dados.py | It is an algorithm that analyzes the probability of the sum of N random numbers, in this case N dice are thrown.
-This algorithm returns a histogram with the number of times a given number fell.
-It is possible to analyze that as the amount of data is increased, the distribution tends to become less random, centralizing the values decreasing the randomness
+This algorithm returns a histogram with the number of time that each sum was drawn.
+It is possible to analyze that as the amount of dices is increased, the distribution tends to centralizing the values decreasing the randomness.
 
