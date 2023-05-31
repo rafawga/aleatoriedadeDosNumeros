@@ -4,4 +4,8 @@ Case study of the randomness of numbers and algorithms that generate pseudorando
 
 
 
-=> dados.py | Is an algorithm that analyzes the probability of the sum of several random numbers, in this case several dice are played.
+=> dados.py | It is an algorithm that analyzes the probability of the sum of N random numbers, in this case N dice are thrown.
+This algorithm returns a histogram with the number of times a given number fell.
+It is possible to analyze that as the amount of data is increased, the distribution tends to become less random, centralizing the values decreasing the randomness
+
+{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}\;\;\mathrm {e} ^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}.
