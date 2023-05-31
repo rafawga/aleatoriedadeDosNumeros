@@ -9,11 +9,14 @@ It is possible to analyze that as the amount of dices is increased, the distribu
 
 interesting tests:
 
-- Dices: 1
-- Draws: 50
+- Test 1
+ Dices: 1
+ Draws: 50
 
-- Dices: 10
-- Draws: 10000
+- Test 2
+ Dices: 10
+ Draws: 10000
 
-- Dices: 100
-- Draws: 10000000
+-Test 3
+ Dices: 100
+ Draws: 10000000
